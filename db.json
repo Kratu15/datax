@@ -1,29 +1,11 @@
 [
     {
-        "name": "Stripe",
-        "details": {
-            "date": "2024-09-10 08:00 AM",
-            "amount": 450.75,
-            "type": "Payment from",
-            "status": "Pending"
-        }
+        "name": "Stripe"
     },
     {
-        "name": "Michael Hun",
-        "details": {
-            "date": "2024-10-05 02:00 PM",
-            "amount": 150.00,
-            "type": "Bill to",
-            "status": "Failed"
-        }
+        "name": "Michael Hun"
     },
     {
-        "name": "Upwork Payment",
-        "details": {
-            "date": "2024-09-29 07:30 PM",
-            "amount": 510.99,
-            "type": "Payment from",
-            "status": "Success"
-        }
+        "name": "Upwork Payment"
     }
 ]
